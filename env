@@ -1,1 +1,4 @@
-
+GOOGLE_API_KEY=your_google_api_key_here
+TELEGRAM_BOT_TOKEN=123456:ABCDEF_your_token_here
+GENAI_MODEL=gemini-1.5-flash
+PORT=8000
